@@ -36,18 +36,19 @@ agrivoltaic-planning-france/
 │   ├── 4.3-Financial-Modeling-Templates.md
 │   ├── 4.4-Incentives-and-Subsidies-France.md
 │   └── 4.5-ROI-and-Payback-Analysis.md
-├── 5-ECOLOGICAL-IMPACT/
-│   ├── 5.1-Biodiversity-Benefits.md
-│   ├── 5.2-Soil-Health-and-Hydrology.md
-│   ├── 5.3-Carbon-Sequestration.md
-│   ├── 5.4-Environmental-Certification.md
-│   └── 5.5-Monitoring-and-Assessment.md
-├── 6-OPERATIONAL-MANAGEMENT/
-│   ├── 6.1-Agricultural-Operations.md
-│   ├── 6.2-Maintenance-and-Cleaning.md
-│   ├── 6.3-Risk-Management.md
-│   ├── 6.4-Labor-and-Staffing.md
-│   └── 6.5-Quality-Control.md
+├── 5-IMPLEMENTATION-AND-PROJECT-MANAGEMENT/
+│   ├── 5.1-Project-Lifecycle-Overview.md
+│   ├── 5.2-Feasibility-Study-and-Site-Assessment.md
+│   ├── 5.3-Financing-and-Approval-Pathway.md
+│   ├── 5.4-Design-and-Engineering.md
+│   ├── 5.5-Procurement-and-Contracting.md
+│   ├── 5.6-Construction-and-Installation.md
+│   ├── 5.7-Commissioning-and-Testing.md
+│   ├── 5.8-Operations-and-Maintenance.md
+│   ├── 5.9-Project-Management-Tools-and-Systems.md
+│   └── 5.12-Case-Study-Typical-1.5-MW-Project-Timeline.md
+├── 6-ENVIRONMENTAL-AND-BIODIVERSITY/
+│   └── 6.1-Biodiversity-Benefits.md
 ├── 7-REGULATORY-COMPLIANCE/
 │   ├── 7.1-French-Regulations.md
 │   ├── 7.2-Permitting-Process.md
@@ -103,17 +104,16 @@ agrivoltaic-planning-france/
 - French subsidies and incentives
 - ROI calculations and payback periods
 
-### 5. **Ecological Impact** (Section 5)
-- Biodiversity co-benefits
-- Soil health improvements
-- Carbon and water management
-- Environmental certification pathways
+### 5. **Implementation and Project Management** (Section 5)
+- Project lifecycle, feasibility, and approval planning
+- Design, procurement, construction, and commissioning
+- Operations and project-management tools
+- Typical project timeline case study
 
-### 6. **Operational Management** (Section 6)
-- Day-to-day operations
-- Maintenance schedules
-- Risk identification and mitigation
-- Labor and staffing models
+### 6. **Environmental and Biodiversity** (Section 6)
+- Biodiversity benefits, risks, and mitigation
+- Site-specific habitat design and management
+- Baselines, monitoring, and adaptive management
 
 ### 7. **Regulatory Compliance** (Section 7)
 - French renewable energy regulations
