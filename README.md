@@ -116,6 +116,7 @@ agrivoltaic-planning-france/
 - [Soil health, hydrology, and water management](6-ENVIRONMENTAL-AND-BIODIVERSITY/6.2-Soil-Health-and-Hydrology.md)
 - Site-specific habitat design and management
 - Baselines, monitoring, and adaptive management
+- Soil health, water movement, and erosion prevention
 
 ### 7. **Regulatory Compliance** (Section 7)
 - French renewable energy regulations
