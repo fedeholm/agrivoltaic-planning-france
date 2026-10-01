@@ -49,7 +49,8 @@ agrivoltaic-planning-france/
 │   └── 5.12-Case-Study-Typical-1.5-MW-Project-Timeline.md
 ├── 6-ENVIRONMENTAL-AND-BIODIVERSITY/
 │   ├── 6.1-Biodiversity-Benefits.md
-│   └── 6.2-Soil-Health-and-Hydrology.md
+│   ├── 6.2-Soil-Health-and-Hydrology.md
+│   └── 6.3-Carbon-Sequestration.md
 ├── 7-REGULATORY-COMPLIANCE/
 │   ├── 7.1-French-Regulations.md
 │   ├── 7.2-Permitting-Process.md
@@ -114,6 +115,7 @@ agrivoltaic-planning-france/
 ### 6. **Environmental and Biodiversity** (Section 6)
 - Biodiversity benefits, risks, and mitigation
 - [Soil health, hydrology, and water management](6-ENVIRONMENTAL-AND-BIODIVERSITY/6.2-Soil-Health-and-Hydrology.md)
+- [Carbon sequestration, soil/biomass carbon, and greenhouse-gas accounting](6-ENVIRONMENTAL-AND-BIODIVERSITY/6.3-Carbon-Sequestration.md)
 - Site-specific habitat design and management
 - Baselines, monitoring, and adaptive management
 - Soil health, water movement, and erosion prevention
