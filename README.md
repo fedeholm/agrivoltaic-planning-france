@@ -113,6 +113,7 @@ agrivoltaic-planning-france/
 
 ### 6. **Environmental and Biodiversity** (Section 6)
 - Biodiversity benefits, risks, and mitigation
+- [Soil health, hydrology, and water management](6-ENVIRONMENTAL-AND-BIODIVERSITY/6.2-Soil-Health-and-Hydrology.md)
 - Site-specific habitat design and management
 - Baselines, monitoring, and adaptive management
 - Soil health, water movement, and erosion prevention
