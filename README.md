@@ -48,7 +48,8 @@ agrivoltaic-planning-france/
 │   ├── 5.9-Project-Management-Tools-and-Systems.md
 │   └── 5.12-Case-Study-Typical-1.5-MW-Project-Timeline.md
 ├── 6-ENVIRONMENTAL-AND-BIODIVERSITY/
-│   └── 6.1-Biodiversity-Benefits.md
+│   ├── 6.1-Biodiversity-Benefits.md
+│   └── 6.2-Soil-Health-and-Hydrology.md
 ├── 7-REGULATORY-COMPLIANCE/
 │   ├── 7.1-French-Regulations.md
 │   ├── 7.2-Permitting-Process.md
@@ -114,6 +115,7 @@ agrivoltaic-planning-france/
 - Biodiversity benefits, risks, and mitigation
 - Site-specific habitat design and management
 - Baselines, monitoring, and adaptive management
+- Soil health, water movement, and erosion prevention
 
 ### 7. **Regulatory Compliance** (Section 7)
 - French renewable energy regulations
